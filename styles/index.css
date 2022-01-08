@@ -99,6 +99,9 @@ p {
 .mobile-nav .links a:nth-child(5) {
   transform: translate(-50%, 70vh);
 }
+.mobile-nav .links a:nth-child(6) {
+  transform: translate(-50%, 80vh);
+}
 nav {
   position: fixed;
   width: 100%;
